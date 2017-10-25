@@ -1,0 +1,1 @@
+/home/francesco/IpOpt/CoinIpopt/Ipopt/tutorial/AmplExperiments/hs71.mod

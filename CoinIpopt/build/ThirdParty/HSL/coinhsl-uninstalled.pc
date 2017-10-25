@@ -1,0 +1,10 @@
+prefix=/home/francesco/IpOpt/CoinIpopt/build
+libdir=/home/francesco/IpOpt/CoinIpopt/build/ThirdParty/HSL
+
+Name: HSL
+Description: Harwell Subroutines Library
+URL: https://projects.coin-or.org/BuildTools
+Version: 1.5.6
+Cflags: -I/home/francesco/IpOpt/CoinIpopt/ThirdParty/HSL -I/home/francesco/IpOpt/CoinIpopt/build/ThirdParty/HSL
+Libs: ${libdir}/libcoinhsl.la -llapack -lblas   -L/usr/lib/gcc/x86_64-linux-gnu/5 -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/5/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/5/../../.. -lgfortran -lm -lquadmath
+Requires: 

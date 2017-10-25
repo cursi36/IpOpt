@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/hs071_nlp.dir/src/hs071_nlp.cpp.o  -o hs071_nlp -rdynamic 

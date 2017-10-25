@@ -1,0 +1,7 @@
+mpic.lo: ../.././../ThirdParty/Mumps/MUMPS/libseq/mpic.c \
+ /usr/include/stdc-predef.h \
+ ../.././../ThirdParty/Mumps/MUMPS/libseq/mumps_mpi.h
+
+/usr/include/stdc-predef.h:
+
+../.././../ThirdParty/Mumps/MUMPS/libseq/mumps_mpi.h:

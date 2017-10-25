@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/my_solver.dir/src/main.cpp.o  -o my_solver -rdynamic 

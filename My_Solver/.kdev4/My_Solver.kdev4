@@ -1,0 +1,25 @@
+[Buildset]
+BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\x12\x00M\x00y\x00_\x00S\x00o\x00l\x00v\x00e\x00r)
+
+[CMake]
+Build Directory Count=1
+Current Build Directory Index=0
+ProjectRootRelative=./
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=file:///home/francesco/IpOpt/My_Solver/build
+Build Type=Debug
+CMake Binary=file:///usr/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=file:///usr/local
+
+[CustomDefinesAndIncludes][ProjectPath0]
+Defines=\x00\x00\x00\x00
+Includes=\x00\x00\x00\x01\x00\x00\x00f\x00/\x00h\x00o\x00m\x00e\x00/\x00f\x00r\x00a\x00n\x00c\x00e\x00s\x00c\x00o\x00/\x00I\x00p\x00O\x00p\x00t\x00/\x00C\x00o\x00i\x00n\x00I\x00p\x00o\x00p\x00t\x00/\x00b\x00u\x00i\x00l\x00d\x00/\x00i\x00n\x00c\x00l\x00u\x00d\x00e\x00/\x00c\x00o\x00i\x00n\x00/
+Path=.
+
+[Defines And Includes][Compiler]
+Name=GCC
+Path=gcc
+Type=GCC

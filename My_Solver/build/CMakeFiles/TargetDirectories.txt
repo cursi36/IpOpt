@@ -1,0 +1,8 @@
+/home/francesco/IpOpt/My_Solver/build/CMakeFiles/install.dir
+/home/francesco/IpOpt/My_Solver/build/CMakeFiles/list_install_components.dir
+/home/francesco/IpOpt/My_Solver/build/CMakeFiles/rebuild_cache.dir
+/home/francesco/IpOpt/My_Solver/build/CMakeFiles/edit_cache.dir
+/home/francesco/IpOpt/My_Solver/build/CMakeFiles/my_solver.dir
+/home/francesco/IpOpt/My_Solver/build/CMakeFiles/main_solver.dir
+/home/francesco/IpOpt/My_Solver/build/CMakeFiles/install/strip.dir
+/home/francesco/IpOpt/My_Solver/build/CMakeFiles/install/local.dir

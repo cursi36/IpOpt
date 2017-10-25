@@ -1,0 +1,10 @@
+prefix=/home/francesco/IpOpt/CoinIpopt/build
+libdir=/home/francesco/IpOpt/CoinIpopt/build/Ipopt/src/Interfaces
+
+Name: IPOPT
+Description: Interior Point Optimizer
+URL: https://projects.coin-or.org/Ipopt
+Version: 3.12.8
+Libs: ${libdir}/libipopt.la -llapack -lblas -lm  -ldl
+Cflags: -I/home/francesco/IpOpt/CoinIpopt/Ipopt/src/Interfaces -I/home/francesco/IpOpt/CoinIpopt/Ipopt/src/Common -I/home/francesco/IpOpt/CoinIpopt/Ipopt/src/LinAlg -I/home/francesco/IpOpt/CoinIpopt/Ipopt/src/Algorithm -I/home/francesco/IpOpt/CoinIpopt/Ipopt/src/contrib/CGPenalty -I/home/francesco/IpOpt/CoinIpopt/Ipopt/src/contrib/LinearSolverLoader -I/home/francesco/IpOpt/CoinIpopt/build/Ipopt/src/Common
+Requires: coinmumps coinhsl >= 1.3 

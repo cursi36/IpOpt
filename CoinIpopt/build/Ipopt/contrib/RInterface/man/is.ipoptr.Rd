@@ -1,0 +1,1 @@
+/home/francesco/IpOpt/CoinIpopt/Ipopt/contrib/RInterface/man/is.ipoptr.Rd

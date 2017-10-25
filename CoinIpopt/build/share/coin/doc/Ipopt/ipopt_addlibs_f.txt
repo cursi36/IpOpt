@@ -1,0 +1,1 @@
+            -L/home/francesco/IpOpt/CoinIpopt/build/lib -L/home/francesco/IpOpt/CoinIpopt/build/lib -lipopt -llapack -lblas -ldl -lcoinmumps -lblas -lcoinhsl -llapack -lblas             -lstdc++ -lm
